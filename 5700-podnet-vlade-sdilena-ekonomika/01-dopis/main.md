@@ -45,7 +45,7 @@ Přístup vlády k těmto platformám je zcela nedostatečný, legislativní sit
 
 Přesto Magistrát hl. m. Prahy s odkazem na politiku Ministerstva dopravy pokračuje v evidentně protizákonném pokutování a flagrantně tím zneužívá svěřenou pravomoc a porušuje Ústavu České republiky. Za spíše úsměvné považuji kroky primátorky Adriany Krnáčové, která vyzvala ke zrušení služby UberPoP a požádala, aby se na sdílenou jízdu vztahovala pravidla pro taxislužbu. Při současných rigidních pravidlech taxislužby by to znamenalo likvidaci 10 až 15 % trhu, zdražení služeb pro zákazníky a menší jistotu pro turisty a návštěvníky Prahy. Správné by naopak bylo regulovat Uber jako digitální platformu a jednotlivé poskytovatele potom podle toho, zda poskytují služby jako profesionálové (podnikatelé) či nikoliv.
 
-Proto apeluji na Vaši vládu, aby urychleně změnila kurs a respektovala doporučení Evropské komise (4), které vyzývá členské státy k nutným změnám v úpravě podnikatelského statusu, zdanění, požadované míry profesionality v oblasti sdílené ekonomiky. Hlavní sdělení směřuje k tomu, aby členské státy braly sdílenou ekonomiku jako výzvu, nepřijímaly žádné nepřiměřené zákazy. 
+Proto apeluji na Vaši vládu, aby urychleně změnila kurs a respektovala doporučení Evropské komise, které vyzývá členské státy k nutným změnám v úpravě podnikatelského statusu, zdanění, požadované míry profesionality v oblasti sdílené ekonomiky. Hlavní sdělení směřuje k tomu, aby členské státy braly sdílenou ekonomiku jako výzvu, nepřijímaly žádné nepřiměřené zákazy. 
 
 Konkrétně navrhuji, aby vláda přijala následující opatření:
 
