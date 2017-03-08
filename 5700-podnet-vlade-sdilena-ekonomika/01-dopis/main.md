@@ -11,7 +11,9 @@ our:
 your:
    role:    
    name:    
-      -     Úřad vlády ČR
+      - Úřad vlády ČR
+      - Nábřeží Edvarda Beneše 4
+      - 118 01 Praha 1-Malá Strana
    note:    
       - k rukám předsedy vlády
       - " "
