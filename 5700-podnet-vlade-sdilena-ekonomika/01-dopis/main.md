@@ -53,7 +53,7 @@ Bude jednoznačně odlišeno postavení podnikatele od nepodnikatele v dané obl
 
 ### 2. Dát stejná férová pravidla pro profesionály bez ohledu na platformu
 
-Podnikatel (ale nikoliv neprofesionální poskytovatel) poskytující své služby prostřednictvím platformy by měl podléhat v zásadě stejným pravidlům jako dosavadní podnikatelé, aby byla zajištěna vyvážená a férová konkurence, a tedy např. profesionální taxikář by měl mít pojištění bez ohledu na to, zda jezdí s Uberem anebo s dispečinkem.
+Podnikatel (ale nikoliv neprofesionální poskytovatel) poskytující své služby prostřednictvím platformy by měl podléhat v zásadě stejným pravidlům jako dosavadní podnikatelé, aby byla zajištěna vyvážená a férová konkurence, a tedy např. profesionální taxikář by měl mít pojištění bez ohledu na to, zda jezdí s Uberem, anebo s dispečinkem.
 
 ### 3. Pravidla pro profesionály musí být aktualizována pro digitální věk
 
@@ -77,9 +77,9 @@ Vážený pane předsedo, žádám Vás o předložení návrhu podle výše uve
 
 #### Odkazy
 
-* (1) [Analýza vybraných sektorů sdílené ekonomiky v České republice](http://www.amo.cz/wp-content/uploads/2016/05/amocz_RP_2_2016_web.pdf). Kryštof Kruliš, Alice Rezková 
+* (1) [Analýza vybraných sektorů sdílené ekonomiky v České republice, Kryštof Kruliš, Alice Rezková](http://www.amo.cz/wp-content/uploads/2016/05/amocz_RP_2_2016_web.pdf)
 * (2) [Usnesení vlády ze dne 19. prosince 2016 č. 1148](https://apps.odok.cz/attachment/-/down/RCIAAGWBX459) k návrhu zákona, kterým se mění zákon č. 111/1994 Sb., o silniční dopravě, ve znění pozdějších předpisů, a další související zákony
-* (3) [Rozsudek MS Praha v kauze Uber](https://github.com/pirati-byro/spisy-zk-pha-2016/blob/master/4904-uber-v-praze/03-dopis/main.pdf)
+* (3) [Rozsudek MS Praha v kauze Uber](https://github.com/pirati-byro/spisy-zk-pha-2016/blob/master/4904-uber-v-praze/02b-rozsudek/rozsudek.PDF) ze dne 26. 10. 2016.
 
 ---
 signature:
